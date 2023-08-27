@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+<channel>
+  <title>WJU story</title>
+  <link>Your Website Link (if any)</link>
+  <description>Description of your podcast</description>
+  <item>
+    <title>打造一個家</title>
+    <link>https://1drv.ms/u/s!Ahj9fVwy_OFhh_QfFYIvUYEhpLCeew?e=fgKy2x</link>
+    <description>打造一個家</description>
+  </item>
+  <!-- Add more <item> tags for additional episodes -->
+</channel>
+</rss>
