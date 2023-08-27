@@ -1,12 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"> 
 <channel>
   <title>WJU story</title>
-  <link>Your Website Link (if any)</link>
+  <link>https://github.com/cajinz/Wina_Story</link>
   <description>Description of your podcast</description>
+  <atom:link href="https://raw.githubusercontent.com/cajinz/Wina_Story/main/WJU.xml" rel="self" type="application/rss+xml" />
   <item>
     <title>打造一個家</title>
     <link>https://1drv.ms/u/s!Ahj9fVwy_OFhh_QfFYIvUYEhpLCeew?e=fgKy2x</link>
+    <guid>https://1drv.ms/u/s!Ahj9fVwy_OFhh_QfFYIvUYEhpLCeew?e=fgKy2x</guid>
     <description>打造一個家</description>
   </item>
   <!-- Add more <item> tags for additional episodes -->
